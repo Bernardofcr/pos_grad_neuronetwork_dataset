@@ -1,10 +1,12 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
+Classificação de imagens de flores, frutas ou cogumelos
+
 ### Bernardo Russo
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
 
 ## Performance
 
