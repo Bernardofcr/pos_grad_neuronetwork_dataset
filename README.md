@@ -31,7 +31,7 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Link do data set:[Roboflow Project - Flower, Fruit or Mushroom](https://app.roboflow.com/cesar-school-ulsik/flower_fruit_mushroom/1)
+Link do data set: [Roboflow Project - Flower, Fruit or Mushroom](https://app.roboflow.com/cesar-school-ulsik/flower_fruit_mushroom/1)
 
 ## HuggingFace
 
