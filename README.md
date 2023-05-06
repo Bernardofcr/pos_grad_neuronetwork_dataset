@@ -6,11 +6,11 @@ Classificação de imagens de flores, frutas ou cogumelos
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|resnet34|PyTorch|
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **91.04%**.
 
 ### Output do bloco de treinamento
 
@@ -18,16 +18,39 @@ O modelo treinado possui performance de **??%**.
   <summary>Click to expand!</summary>
   
   ```text
-    Você deve colar aqui a saída do bloco de treinamento do notebook, contendo todas as épocas e saídas do treinamento
+Epoch 0/2
+----------
+Iterating through data...
+train Loss: 0.7545 Acc: 0.7052
+Iterating through data...
+valid Loss: 0.1788 Acc: 0.9535
+
+Epoch 1/2
+----------
+Iterating through data...
+train Loss: 0.4575 Acc: 0.8057
+Iterating through data...
+valid Loss: 0.5638 Acc: 0.8062
+
+Epoch 2/2
+----------
+Iterating through data...
+train Loss: 0.3874 Acc: 0.8755
+Iterating through data...
+valid Loss: 0.2393 Acc: 0.8837
+
+Training complete in 19m 31s
+Best val Acc: 0.953488
+----------
+Test Acc: 0.940299
+----------
   ```
 </details>
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+#### Matriz de Confusão
+![matriz de confusão](confusion_matrix.png)
 
 ## Roboflow
 
