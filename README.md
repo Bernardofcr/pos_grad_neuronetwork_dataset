@@ -10,7 +10,7 @@ Classificação de imagens de flores, frutas ou cogumelos
 
 ## Performance
 
-O modelo treinado possui performance de **91.04%**.
+O modelo treinado possui performance de **94.03%**.
 
 ### Output do bloco de treinamento
 
