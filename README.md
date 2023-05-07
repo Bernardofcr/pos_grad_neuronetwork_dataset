@@ -6,7 +6,7 @@ Classificação de imagens de flores, frutas ou cogumelos
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|resnet34|PyTorch|
+|Classificação de Imagens|resnet50|PyTorch|
 
 ## Performance
 
@@ -21,25 +21,25 @@ O modelo treinado possui performance de **91.04%**.
 Epoch 0/2
 ----------
 Iterating through data...
-train Loss: 0.7545 Acc: 0.7052
+train Loss: 0.8244 Acc: 0.6397
 Iterating through data...
-valid Loss: 0.1788 Acc: 0.9535
+valid Loss: 0.3844 Acc: 0.9147
 
 Epoch 1/2
 ----------
 Iterating through data...
-train Loss: 0.4575 Acc: 0.8057
+train Loss: 0.5013 Acc: 0.8144
 Iterating through data...
-valid Loss: 0.5638 Acc: 0.8062
+valid Loss: 0.2251 Acc: 0.9380
 
 Epoch 2/2
 ----------
 Iterating through data...
-train Loss: 0.3874 Acc: 0.8755
+train Loss: 0.3747 Acc: 0.8777
 Iterating through data...
-valid Loss: 0.2393 Acc: 0.8837
+valid Loss: 0.1743 Acc: 0.9535
 
-Training complete in 19m 31s
+Training complete in 16m 3s
 Best val Acc: 0.953488
 ----------
 Test Acc: 0.940299
