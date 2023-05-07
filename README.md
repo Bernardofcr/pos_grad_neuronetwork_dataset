@@ -114,7 +114,7 @@ test loss: 0.3965863287448883 test acc: 0.8507462739944458
 ### Evidências do treinamento
 
 #### Acurácia e Perda
-![acurácia e perda de treino e validação](confusion_matrix.png)
+![acurácia e perda de treino e validação](training_val_acc_loss.png)
 
 ## Roboflow
 
