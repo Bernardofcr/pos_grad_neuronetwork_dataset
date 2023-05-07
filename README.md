@@ -52,14 +52,6 @@ Test Acc: 0.940299
 #### Matriz de Confusão
 ![matriz de confusão](confusion_matrix.png)
 
-## Roboflow
-
-Link do data set: [Roboflow Project - Flower, Fruit or Mushroom](https://app.roboflow.com/cesar-school-ulsik/flower_fruit_mushroom/1)
-
-## HuggingFace
-
-Nessa seção você deve publicar o link para o HuggingFace
-
 ## TensorFlow
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
